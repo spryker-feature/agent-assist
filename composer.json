@@ -1,0 +1,14 @@
+{
+  "name": "spryker-feature/agent-assist",
+  "description": "Agent Assist [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker-shop/agent-page": "^1.1.0",
+    "spryker-shop/agent-widget": "^1.1.0",
+    "spryker/agent": "^1.0.1",
+    "spryker/agent-gui": "^1.0.0"
+  }
+}
