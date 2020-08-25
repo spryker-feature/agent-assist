@@ -7,3 +7,7 @@ An agent in e-commerce is a person who assists customers in an online shop in va
 ```
 composer require spryker-feature/agent-assist
 ```
+
+## Optional modules
+- [AgentAuthRestApi ^1.0.0](https://github.com/spryker/agent-auth-rest-api) (Glue)
+- [OauthAgentConnector ^1.0.0](https://github.com/spryker/oauth-agent-connector) (Connector)
