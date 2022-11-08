@@ -12,3 +12,4 @@ composer require spryker-feature/agent-assist
 - [AgentAuthRestApi ^1.0.0](https://github.com/spryker/agent-auth-rest-api) (Glue)
 - [AgentExtension ^1.0.0](https://github.com/spryker/agent-extension) (Extension)
 - [OauthAgentConnector ^1.0.0](https://github.com/spryker/oauth-agent-connector) (Connector)
+- [Shop.SessionAgentValidationExtension ^1.0.0](https://github.com/spryker-shop/session-agent-validation-extension) (Extension)
