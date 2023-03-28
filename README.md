@@ -9,7 +9,7 @@ composer require spryker-feature/agent-assist
 ```
 
 ## Optional modules
-- [AgentAuthRestApi ^1.0.0](https://github.com/spryker/agent-auth-rest-api) (Glue)
+- [AgentAuthRestApi ^1.0.0](https://github.com/spryker/agent-auth-rest-api) (Legacy Glue)
 - [AgentExtension ^1.0.0](https://github.com/spryker/agent-extension) (Extension)
 - [Shop.AgentPageExtension ^1.0.0](https://github.com/spryker-shop/agent-page-extension) (Extension)
 - [OauthAgentConnector ^1.0.0](https://github.com/spryker/oauth-agent-connector) (Connector)
