@@ -2,6 +2,8 @@
 
 An agent in e-commerce is a person who assists customers in an online shop in various ways. On the one hand, this is someone with unrivaled product knowledge who can advise the best fit your customers and thus give them confidence to make the purchase. On the other hand, the agent can perform various activities in an online store on behalf of a customer: make a purchase, create and share shopping lists or even register a company etc.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/user-management/202307.0/agent-assist-feature-overview.html)
+
 ## Installation
 
 ```
